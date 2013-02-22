@@ -1,0 +1,9 @@
+deb http://ftp.us.debian.org/debian lenny main contrib
+deb http://backports.debian.org/debian-backports lenny-backports main contrib
+
+# PVE packages provided by proxmox.com
+deb http://download.proxmox.com/debian lenny pve
+
+# security updates
+deb http://security.debian.org/ lenny/updates main contrib
+
